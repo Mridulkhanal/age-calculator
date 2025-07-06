@@ -27,6 +27,3 @@ A simple and responsive web application that calculates a user's age based on th
 - JavaScript (Vanilla)
 - [Vercel](https://vercel.com) for deployment
 
-```bash
-git clone https://github.com/your-username/age-calculator.git
-cd age-calculator
